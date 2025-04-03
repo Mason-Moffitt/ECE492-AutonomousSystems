@@ -1,0 +1,5 @@
+#Startup Commands
+
+1) Open QGroundControl
+2) cd ardupilot
+3) sim_vehicle.py -L NCSU -v ArduPlane
