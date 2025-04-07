@@ -3,3 +3,8 @@
 1) Open QGroundControl
 2) cd ardupilot
 3) sim_vehicle.py -L NCSU -v ArduPlane
+
+
+#Virtual Environment commands
+Activate: source ~/venv-ardupilot/bin/activate //run from whatever directory has venv-ardupilot
+Deactivate: deactivate
