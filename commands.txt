@@ -2,7 +2,8 @@
 
 1) Open QGroundControl
 2) cd ardupilot
-3) sim_vehicle.py -L NCSU -v ArduPlane
+3) sim_vehicle.py -L NCSU -v ArduPlane --out="udp:127.0.0.1:14552"
+4) python3 --connect :14552
 
 
 #Virtual Environment commands
