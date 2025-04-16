@@ -79,7 +79,7 @@ def main():
     parser.add_argument('--connect', default='127.0.0.1:14552')
     args = parser.parse_args()
 
-    print("Enter target coordinates as 'lat,lon,alt' (e.g., 35.7721,-78.6745,100): ")
+    print("Enter target coordinates as 'lat,lon,alt' (e.g., 35.726010,-78.697287,100): ")
     lat1, lon1, alt1 = map(float, input().split(','))
 
     print(f"Connecting to vehicle on {args.connect}...")
