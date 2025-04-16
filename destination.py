@@ -79,7 +79,7 @@ def main():
     parser.add_argument('--connect', default='127.0.0.1:14552')
     args = parser.parse_args()
 
-    print("Enter target coordinates as 'lat,lon,alt' (e.g., 35.726010,-78.697287,100): ")
+    print("Enter target coordinates as 'lat,lon,alt' (eg south:35.726010,-78.697287,100): ")
     lat1, lon1, alt1 = map(float, input().split(','))
 
     print(f"Connecting to vehicle on {args.connect}...")
@@ -117,7 +117,7 @@ def main():
     print("Loiter mode active.")
 
     # Prompt for landing location
-    print("Now enter landing coordinates as 'lat,lon' (alt is not needed for LAND):")
+    print("Now enter landing coordinates as 'lat,lon' (eg home:35.727312, -78.696101):")
     lat2, lon2 = map(float, input().split(','))
 
     print("Uploading landing command...")
@@ -144,7 +144,7 @@ def main():
 
     try:
         vehicle.parameters['THR_MIN'] = 0
-        print("Throttle set to zero.")
+        print("Throttle max set to zero.")
     except Exception as e:
         print(f"Failed to set throttle: {e}")
 
