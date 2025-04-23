@@ -5,10 +5,10 @@ from math import sin, cos, sqrt, atan2, radians, degrees, pi
 
 # Configurable Constants
 GLIDE_RATIO = 10.0        # Initial glide ratio (distance/altitude), tune in SITL
-IDEAL_RADIUS = 75.0      # Distance to start circling (meters)
+IDEAL_RADIUS = 100.0      # Distance to start circling (meters)
 IDEAL_HEIGHT = 10.0       # Height to stop circling (meters)
 IDEAL_SPEED = 10.0        # Speed to stop circling (m/s)
-CIRCLE_RADIUS = 50.0     # Desired circling radius (meters)
+CIRCLE_RADIUS = 75.0     # Desired circling radius (meters)
 K_ROLL = 1.0              # Roll proportional gain for glide phase
 K_ROLL_CIRCLE = 0.01       # Roll gain for waypoint heading correction in circling phase
 K_P = 0.1                 # Pitch proportional gain
