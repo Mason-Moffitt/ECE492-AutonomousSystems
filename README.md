@@ -2,7 +2,7 @@
 
 Drone Glide and Circle Landing Controller
 -----------------------------------------
-This program controls a drone to glide towards a specified waypoint, perform counter-clockwise circling around the waypoint until a certain height, and then land. It uses the DroneKit library to interface with the drone.
+This program controls a drone to glide towards a specified waypoint, perform counter-clockwise circling around the waypoint until a certain height, and then land at the waypoint. It uses the DroneKit library to interface with the drone.
 
 Prerequisites:
  - Python 3.x
