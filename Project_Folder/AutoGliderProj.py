@@ -7,7 +7,7 @@ from math import sin, cos, sqrt, atan2, radians, degrees, pi
 # Configuration Constants
 GLIDE_RATIO = 10.0        # Glide ratio (distance/altitude)
 CIRCLE_RADIUS = 50.0      # Desired circling radius (meters)
-IDEAL_HEIGHT = 10.0       # Height to start final approach (meters)
+IDEAL_HEIGHT = 12.0       # Height to start final approach (meters)
 K_ROLL = 2.0              # Roll gain
 K_P = 0.1                 # Pitch gain
 K_DISTANCE = 3.5          # Distance based control while circling

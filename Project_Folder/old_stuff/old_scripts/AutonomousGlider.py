@@ -8,7 +8,7 @@ from math import sin, cos, sqrt, atan2, radians, degrees, pi
 GLIDE_RATIO = 10.0        # Glide ratio (distance/altitude)
 CIRCLE_RADIUS = 50.0      # Desired circling radius (meters)
 IDEAL_HEIGHT = 10.0       # Height to start final approach (meters)
-K_ROLL = 2.0              # Roll gain
+K_ROLL = 1.5              # Roll gain
 K_P = 0.1                 # Pitch gain
 K_DISTANCE = 2.0          # Distance based control while circling
 THROTTLE_MIN = 1000       # PWM for throttle off

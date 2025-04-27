@@ -1,0 +1,147 @@
+2025-04-23 15:42:29,006 ArduPlane V4.7.0-dev (0b6a14b0)
+2025-04-23 15:42:29,008 d401cf98bb2647b8bcdda0a5757d1e82
+2025-04-23 15:42:30,090 Waiting for manual arming...
+2025-04-23 15:42:37,632 Terrain: clamping offset -112 to -30
+2025-04-23 15:42:37,633 Throttle armed
+2025-04-23 15:42:38,094 Vehicle armed!
+2025-04-23 15:42:38,094 Waiting for takeoff (alt > 5.0m, speed > 5m/s)...
+2025-04-23 15:42:46,456 EKF2 IMU0 is using GPS
+2025-04-23 15:42:46,456 EKF2 IMU1 is using GPS
+2025-04-23 15:42:48,506 Armed AUTO, xaccel = 0.0 m/s/s, waiting 0.2 sec
+2025-04-23 15:42:48,721 Triggered AUTO. GPS speed = 0.0
+2025-04-23 15:42:49,734 Takeoff to 50m for 200.0m heading 0.4 deg
+2025-04-23 15:42:49,964 Autoland direction= 0
+2025-04-23 15:42:53,094 Takeoff confirmed.
+2025-04-23 15:42:55,489 Takeoff level-off starting at 19m
+2025-04-23 15:43:06,601 Navigating to start: 35.72601, -78.697287, 100.0m...
+2025-04-23 15:43:06,602 Dist to start: 386.6m, Alt diff: 50.8m
+2025-04-23 15:43:07,602 Dist to start: 364.3m, Alt diff: 50.8m
+2025-04-23 15:43:08,602 Dist to start: 342.9m, Alt diff: 51.3m
+2025-04-23 15:43:09,603 Dist to start: 322.0m, Alt diff: 49.5m
+2025-04-23 15:43:10,598 Dist to start: 300.7m, Alt diff: 46.5m
+2025-04-23 15:43:11,599 Dist to start: 279.6m, Alt diff: 42.6m
+2025-04-23 15:43:12,600 Dist to start: 258.2m, Alt diff: 38.2m
+2025-04-23 15:43:13,601 Dist to start: 237.0m, Alt diff: 33.4m
+2025-04-23 15:43:14,601 Dist to start: 215.4m, Alt diff: 28.5m
+2025-04-23 15:43:15,602 Dist to start: 193.9m, Alt diff: 23.8m
+2025-04-23 15:43:16,603 Dist to start: 172.2m, Alt diff: 19.2m
+2025-04-23 15:43:17,604 Dist to start: 150.8m, Alt diff: 14.7m
+2025-04-23 15:43:18,604 Dist to start: 129.1m, Alt diff: 10.5m
+2025-04-23 15:43:19,605 Dist to start: 107.3m, Alt diff: 7.3m
+2025-04-23 15:43:20,605 Dist to start: 85.0m, Alt diff: 5.0m
+2025-04-23 15:43:21,606 Dist to start: 62.7m, Alt diff: 3.3m
+2025-04-23 15:43:22,607 Start location reached.
+2025-04-23 15:43:27,057 Starting glide...
+2025-04-23 15:43:52,987 Starting CCW circling...
+2025-04-23 15:44:13,730 Approaching waypoint...
+2025-04-23 15:44:20,614 SIM Hit ground at 1.857180 m/s
+2025-04-23 15:44:20,982 Landing detected.
+2025-04-23 15:44:21,983 Landing complete.
+2025-04-23 15:59:31,180 ArduPlane V4.7.0-dev (0b6a14b0)
+2025-04-23 15:59:31,181 d401cf98bb2647b8bcdda0a5757d1e82
+2025-04-23 15:59:31,267 Waiting for manual arming...
+2025-04-23 15:59:31,267 Vehicle armed!
+2025-04-23 15:59:31,267 Waiting for takeoff (alt > 5.0m, speed > 5m/s)...
+2025-04-23 15:59:35,279 Armed AUTO, xaccel = -3.0 m/s/s, waiting 0.2 sec
+2025-04-23 15:59:35,476 Triggered AUTO. GPS speed = 0.0
+2025-04-23 15:59:36,499 Takeoff to 50m for 200.0m heading 201.1 deg
+2025-04-23 15:59:39,272 Takeoff confirmed.
+2025-04-23 15:59:47,604 Navigating to start: 35.72601, -78.697287, 100.0m...
+2025-04-23 15:59:47,604 Dist to start: 78.3m, Alt diff: 50.9m
+2025-04-23 15:59:48,605 Dist to start: 83.3m, Alt diff: 50.6m
+2025-04-23 15:59:49,605 Dist to start: 82.0m, Alt diff: 48.7m
+2025-04-23 15:59:50,606 Dist to start: 76.1m, Alt diff: 46.6m
+2025-04-23 15:59:51,606 Dist to start: 66.5m, Alt diff: 44.0m
+2025-04-23 15:59:52,607 Dist to start: 56.3m, Alt diff: 41.6m
+2025-04-23 15:59:53,607 Dist to start: 46.3m, Alt diff: 38.1m
+2025-04-23 15:59:54,608 Dist to start: 38.0m, Alt diff: 33.9m
+2025-04-23 15:59:55,609 Dist to start: 31.9m, Alt diff: 28.8m
+2025-04-23 15:59:56,609 Dist to start: 29.7m, Alt diff: 22.9m
+2025-04-23 15:59:57,610 Dist to start: 36.2m, Alt diff: 18.6m
+2025-04-23 15:59:58,611 Dist to start: 46.1m, Alt diff: 15.3m
+2025-04-23 15:59:59,611 Dist to start: 55.3m, Alt diff: 12.0m
+2025-04-23 16:00:00,612 Dist to start: 62.3m, Alt diff: 8.8m
+2025-04-23 16:00:01,613 Dist to start: 67.8m, Alt diff: 6.4m
+2025-04-23 16:00:02,614 Dist to start: 71.2m, Alt diff: 4.6m
+2025-04-23 16:00:03,615 Dist to start: 71.9m, Alt diff: 3.2m
+2025-04-23 16:00:04,615 Dist to start: 69.9m, Alt diff: 2.3m
+2025-04-23 16:00:05,616 Dist to start: 65.2m, Alt diff: 1.6m
+2025-04-23 16:00:06,617 Dist to start: 58.6m, Alt diff: 1.3m
+2025-04-23 16:00:07,618 Dist to start: 51.7m, Alt diff: 1.3m
+2025-04-23 16:00:08,619 Start location reached.
+2025-04-23 16:00:15,718 Starting glide...
+2025-04-23 16:00:42,638 Starting CCW circling...
+2025-04-23 16:00:57,601 Approaching waypoint...
+2025-04-23 16:01:05,305 SIM Hit ground at 1.489270 m/s
+2025-04-23 16:01:07,604 Landing detected.
+2025-04-23 16:01:08,605 Landing complete.
+2025-04-23 16:02:27,128 ArduPlane V4.7.0-dev (0b6a14b0)
+2025-04-23 16:02:27,129 d401cf98bb2647b8bcdda0a5757d1e82
+2025-04-23 16:02:27,220 Waiting for manual arming...
+2025-04-23 16:02:27,220 Vehicle armed!
+2025-04-23 16:02:27,220 Waiting for takeoff (alt > 5.0m, speed > 5m/s)...
+2025-04-23 16:02:31,336 Armed AUTO, xaccel = -1.3 m/s/s, waiting 0.2 sec
+2025-04-23 16:02:31,528 Triggered AUTO. GPS speed = 0.0
+2025-04-23 16:02:32,552 Takeoff to 50m for 200.0m heading 237.9 deg
+2025-04-23 16:02:35,223 Takeoff confirmed.
+2025-04-23 16:02:43,571 Navigating to start: 35.72601, -78.697287, 100.0m...
+2025-04-23 16:02:43,572 Dist to start: 82.3m, Alt diff: 51.7m
+2025-04-23 16:02:44,566 Dist to start: 103.7m, Alt diff: 52.6m
+2025-04-23 16:02:45,566 Dist to start: 117.4m, Alt diff: 50.6m
+2025-04-23 16:02:46,567 Dist to start: 123.5m, Alt diff: 47.1m
+2025-04-23 16:02:47,568 Dist to start: 123.8m, Alt diff: 44.0m
+2025-04-23 16:02:48,568 Dist to start: 117.3m, Alt diff: 40.7m
+2025-04-23 16:02:49,569 Dist to start: 105.1m, Alt diff: 37.3m
+2025-04-23 16:02:50,569 Dist to start: 89.5m, Alt diff: 33.9m
+2025-04-23 16:02:51,570 Dist to start: 71.2m, Alt diff: 30.1m
+2025-04-23 16:02:52,571 Dist to start: 52.1m, Alt diff: 25.9m
+2025-04-23 16:02:53,571 Dist to start: 32.6m, Alt diff: 21.9m
+2025-04-23 16:02:54,572 Dist to start: 15.1m, Alt diff: 17.6m
+2025-04-23 16:02:55,572 Dist to start: 13.2m, Alt diff: 13.1m
+2025-04-23 16:02:56,573 Dist to start: 29.7m, Alt diff: 7.7m
+2025-04-23 16:02:57,574 Start location reached.
+2025-04-23 16:03:02,255 Starting glide...
+2025-04-23 16:03:28,340 Starting CCW circling...
+2025-04-23 16:03:47,634 Approaching waypoint...
+2025-04-23 16:03:54,875 SIM Hit ground at 1.269377 m/s
+2025-04-23 16:03:57,380 Landing detected.
+2025-04-23 16:03:58,381 Landing complete.
+2025-04-23 17:00:48,605 ArduPlane V4.7.0-dev (0b6a14b0)
+2025-04-23 17:00:48,607 d401cf98bb2647b8bcdda0a5757d1e82
+2025-04-23 17:00:48,692 Waiting for manual arming...
+2025-04-23 17:01:08,211 Terrain: clamping offset -112 to -30
+2025-04-23 17:01:08,212 Throttle armed
+2025-04-23 17:01:08,675 Vehicle armed!
+2025-04-23 17:01:08,675 Waiting for takeoff (alt > 5.0m, speed > 5m/s)...
+2025-04-23 17:01:23,650 Armed AUTO, xaccel = 0.0 m/s/s, waiting 0.2 sec
+2025-04-23 17:01:23,851 Triggered AUTO. GPS speed = 0.0
+2025-04-23 17:01:24,870 Takeoff to 50m for 200.0m heading 0.7 deg
+2025-04-23 17:01:25,152 Autoland direction= 359
+2025-04-23 17:01:28,657 Takeoff confirmed.
+2025-04-23 17:01:30,564 Takeoff level-off starting at 19m
+2025-04-23 17:01:54,348 Navigating to start: 35.72601, -78.697287, 100.0m...
+2025-04-23 17:01:54,349 Dist to start: 414.9m, Alt diff: 50.6m
+2025-04-23 17:01:55,349 Dist to start: 402.6m, Alt diff: 50.6m
+2025-04-23 17:01:56,350 Dist to start: 385.1m, Alt diff: 50.0m
+2025-04-23 17:01:57,325 Dist to start: 365.9m, Alt diff: 48.3m
+2025-04-23 17:01:58,326 Dist to start: 345.9m, Alt diff: 45.7m
+2025-04-23 17:01:59,327 Dist to start: 325.7m, Alt diff: 42.1m
+2025-04-23 17:02:00,327 Dist to start: 305.1m, Alt diff: 37.9m
+2025-04-23 17:02:01,328 Dist to start: 284.4m, Alt diff: 33.3m
+2025-04-23 17:02:02,329 Dist to start: 263.3m, Alt diff: 28.4m
+2025-04-23 17:02:03,329 Dist to start: 242.2m, Alt diff: 23.4m
+2025-04-23 17:02:04,330 Dist to start: 220.6m, Alt diff: 18.6m
+2025-04-23 17:02:05,331 Dist to start: 199.3m, Alt diff: 13.9m
+2025-04-23 17:02:06,331 Dist to start: 177.6m, Alt diff: 9.8m
+2025-04-23 17:02:07,332 Dist to start: 155.8m, Alt diff: 6.8m
+2025-04-23 17:02:08,332 Dist to start: 133.5m, Alt diff: 4.6m
+2025-04-23 17:02:09,333 Dist to start: 111.3m, Alt diff: 3.0m
+2025-04-23 17:02:10,333 Dist to start: 88.8m, Alt diff: 1.8m
+2025-04-23 17:02:11,334 Dist to start: 66.6m, Alt diff: 1.0m
+2025-04-23 17:02:12,335 Start location reached.
+2025-04-23 17:02:47,079 Starting glide...
+2025-04-23 17:03:09,453 Starting CCW circling...
+2025-04-23 17:03:34,178 Approaching waypoint...
+2025-04-23 17:03:41,583 SIM Hit ground at 1.475097 m/s
+2025-04-23 17:03:41,942 Landing detected.
+2025-04-23 17:03:42,943 Landing complete.
